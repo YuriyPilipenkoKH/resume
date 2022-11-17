@@ -12,7 +12,7 @@ body {
 .main-content {
     background-color: #FFFFFF ;
     box-shadow: 6px 6px 20px  rgba(0, 0, 0, 0.1);
-    padding: 105px 90px;
+    padding: 10px 90px;
 }
 .about {
     margin-bottom: 40px;
@@ -38,7 +38,7 @@ body {
     margin-bottom: 25px;
 }
 .description__wrapper {
-    max-width: 400px;
+    max-width: 600px;
 }
 .about-description {
     display: inline;
@@ -47,7 +47,7 @@ body {
     border-radius: 14px;
     padding: 5px 20px;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 600;
     font-size: 14px;
     line-height: 2.5;
     
