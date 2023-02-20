@@ -19,7 +19,7 @@ body {
 .main-content {
     background-color: #FFFFFF ;
     box-shadow: 6px 6px 20px  rgba(0, 0, 0, 0.1);
-    padding: 10px 90px;
+    padding: 10px 80px;
 }
 .about {
     margin-bottom: 40px;
@@ -206,7 +206,7 @@ body {
 .sidebar {
     background-color: #1E2939;
     padding-top: 40px;
-    width: 470px;
+    width: 400px;
     font-size: 14px;
     color: #595959;
 }
