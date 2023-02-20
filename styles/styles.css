@@ -211,9 +211,9 @@ body {
     color: #595959;
 }
 .photo {
-    width: 370px;
+    width: 350px;
     margin-bottom: 50px;
-  
+  border-radius: 50%;
 }
 .contacts {
     margin-left: 40px;
