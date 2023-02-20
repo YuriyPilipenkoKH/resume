@@ -19,7 +19,7 @@ body {
 .main-content {
     background-color: #FFFFFF ;
     box-shadow: 6px 6px 20px  rgba(0, 0, 0, 0.1);
-    padding: 10px 80px;
+    padding: 25px 80px;
 }
 .about {
     margin-bottom: 40px;
@@ -176,6 +176,12 @@ body {
     color: #595959;
 }
 /* education styles */
+.link-goit {
+    padding: 0;
+    margin-right: 8px;
+    display: inline-block;
+}
+
 .education {
     font-style: normal;
     font-weight: bold;
@@ -217,7 +223,7 @@ body {
   border-radius: 50%;
 }
 .contacts {
-    margin-left: 40px;
+    margin-left: 80px;
     margin-bottom: 50px;
 }
 .sidebar-title {
@@ -229,7 +235,7 @@ body {
     margin-bottom: 10px;
 }
 .tech-skills {
-     margin-left: 40px;
+     margin-left: 80px;
 }
 .contact-type {
     color: #FFFFFF;
@@ -279,7 +285,7 @@ body {
     line-height: 24px;     
     }
     .soft-skills {
-        margin-left: 40px;
+        margin-left: 80px;
    }
    .soft-skills-list {
     color: #FFFFFF;
