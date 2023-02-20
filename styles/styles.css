@@ -206,13 +206,14 @@ body {
 .sidebar {
     background-color: #1E2939;
     padding-top: 40px;
-    width: 370px;
+    width: 470px;
     font-size: 14px;
     color: #595959;
 }
 .photo {
-    width: 350px;
-    margin-bottom: 50px;
+    display: block;
+    width: 200px;
+    margin:0 auto 100px;
   border-radius: 50%;
 }
 .contacts {
