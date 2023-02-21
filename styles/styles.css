@@ -224,7 +224,7 @@ body {
 }
 .contacts {
     margin-left: 60px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     padding: 0;
 }
 .sidebar-title {
@@ -236,7 +236,7 @@ body {
     margin: 0 0 10px 0px;
 }
 .contacts__title {
-    margin-left: 10px;
+    margin-left: 20px;
 }
 .tech-skills {
      margin-left: 80px;
@@ -253,7 +253,7 @@ body {
     .contact-list {
         display: flex;
         flex-direction: column;
-        gap: 4px;
+        gap: 2px;
         list-style: none;
         padding:  0;
         margin-left: 20px;
