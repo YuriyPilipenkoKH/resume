@@ -2,7 +2,10 @@ body {
     font-family: 'Montserrat', sans-serif;
     background-color: #F5F7FA;
     box-sizing: border-box;
+    margin: 0;
 }
+
+
 
 .list {
     padding: 0;
@@ -315,3 +318,75 @@ body {
     font-size: 14px;
     line-height: 24px;     
     }
+/* ================================ */
+    .cover-letter {
+        text-decoration: none;
+        font-weight: 600;
+        color: #eee;
+        position: absolute;
+        top: 20px;
+        left: 550px;
+    }
+
+    .header {
+        padding: 60px;
+        padding-right: 200px;
+        display: flex;
+        justify-content: space-between;
+      
+        height: 300px;
+        background-color: #1E2939;
+    }
+
+    .cover__title {
+        margin: 0;
+        font-size: 70px;
+        color: #eee;
+    }
+
+    .cover__contacts {
+        color: #eee;
+        font-size: 1.2em;
+        font-weight: 600;
+        list-style: none;
+        
+    }
+
+    .cover__mail{
+        display: flex;
+        gap: 16px;
+        justify-content: flex-start;
+        align-items: center;
+
+    }
+
+    .cover__photo {
+        width: 200px;
+        height: 200px;
+        align-self: end;
+    }
+
+    .cover__main {
+        padding: 60px;
+       padding-right: 200px;
+        
+    }
+
+    .cover__main>h3 {
+        font-size: 1.2em;
+    }
+
+    .cover__main>p {
+        font-size: 1.2em;
+        line-height: 2;
+    }
+
+    .cover__main>span {
+        display: block;
+        padding: 20px;
+        font-size: 1.2em;
+        font-weight: 500;
+    }
+
+
+
