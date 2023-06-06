@@ -15,12 +15,14 @@ body {
 /* main styles */
 .main {
     display: flex;
+    gap: 12px;
     flex-direction: row-reverse;
     width: 1200px;
     margin: 0 auto;
 }
 .main-content {
     background-color: #FFFFFF ;
+    width: 700px;
     box-shadow: 6px 6px 20px  rgba(0, 0, 0, 0.1);
     padding: 25px 80px;
 }
