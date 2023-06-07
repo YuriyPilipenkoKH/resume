@@ -10,7 +10,7 @@ body {
 } */
 
 h3, h2{
-    font-size: 26px;
+    font-size: 20px;
 }
 
 .kh{
@@ -33,35 +33,35 @@ h3, h2{
 }
 .main-content {
     background-color: #FFFFFF ;
-    width: 600px;
+    width: 800px;
  
-    padding: 25px 50px;
+    padding: 5px 30px;
 }
 .about {
-    margin-bottom: 40px;
+
 }
 .about-position {
     display: inline-block;
     font-style: normal;
     
     font-weight: bold;
-    font-size: 26px;
+    font-size: 20px;
     line-height: 17px;
     color: #000;
     background-color: #fff;
     /* border: 4px solid #000; */
     border-radius: 16px;
-    padding: 5px 0;
-   margin: 15px auto;
+    padding:  0;
+    margin: 10px 0;
 
 }
 .about-name {
     font-style: normal;
     font-weight: bold;
-    font-size: 45px;
+    font-size: 35px;
     line-height: 55px;
     color: #333;
-    margin-bottom: 25px;
+   margin: 15px 0;
 }
 .description__wrapper {
     /* max-width: 600px; */
@@ -101,6 +101,9 @@ h3, h2{
 .projects {
     margin-bottom: 50px;
 }
+.projects-title {
+    margin: 10px 0;
+}
 .projects-list {
     display: flex;
     flex-direction: column;
@@ -111,7 +114,7 @@ h3, h2{
 .title {
     font-style: normal;
     font-weight: bold;
-    font-size: 26px;
+    font-size: 20px;
     line-height: 27px;
     color: #333;
     margin-bottom: 10px;
@@ -157,7 +160,7 @@ h3, h2{
     font-size: 16px;
     line-height: 20px;
     color: #333;
-    margin-bottom: 10px;
+    margin: 10px 0;
 }
 .organization {
     font-style: normal;
@@ -202,18 +205,17 @@ h3, h2{
 }
 
 .accomplishments {
-    margin-bottom: -10px;
+    margin: 10px 0;
     font-size: 16px;
 }
 
 .education {
     font-style: normal;
     font-weight: bold;
-    font-size: 26px;
+    font-size: 20px;
     line-height: 27px;
     color: #333;
-    margin-top: 43px;
-    margin-bottom: 10px;
+    margin: 10px 0;
 }
 .university, .goit {
     font-style: normal;
@@ -236,13 +238,13 @@ h3, h2{
 .sidebar {
     background-color: #1E2939;
     padding-top: 40px;
-    width: 400px;
+    width: 300px;
     font-size: 16px;
     color: #333;
 }
 .photo {
     display: block;
-    width: 250px;
+    width: 150px;
     margin:0 auto 50px;
   border-radius: 50%;
 }
@@ -255,7 +257,7 @@ h3, h2{
     color: #FFFFFF;
     font-style: normal;
     font-weight: bold;
-    font-size: 26px;
+    font-size: 20px;
     line-height: 27px;
 
 }
@@ -353,7 +355,7 @@ h3, h2{
         margin-top: 70px;
     }
     .xp-title {
-        margin-top: 50px;
+     margin: 10px 0;
     }
 /* ================================ */
     .cover-letter {
