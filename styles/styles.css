@@ -50,7 +50,7 @@ h3, h2{
     color: #000;
     background-color: #fff;
     /* border: 4px solid #000; */
-    border-radius: 16px;
+    border-radius: 14px;
     padding:  0;
     margin: 10px 0;
 
@@ -72,8 +72,8 @@ h3, h2{
 .description {
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 18px;
     color: #333;
    margin: 0;
 
@@ -87,12 +87,12 @@ h3, h2{
     display: inline;
     color: #000;
     /* background-color: #777; */
-    border-radius: 16px;
+    border-radius: 14px;
    
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 18px;
     color: #333;
 
     /* -webkit-box-decoration-break: clone; */
@@ -131,16 +131,16 @@ h3, h2{
 .project-item {
     font-style: normal;
     font-weight: bold;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 18px;
     color: #333;
 }
 .project,
 .project-link {
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 18px;
     color: #333;
 }
 .project-link {
@@ -149,15 +149,15 @@ h3, h2{
 .project-bracket {
     font-style: normal;
     font-weight: bold;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 18px;
     color: #333;
 }
 /* work styles */
 .work-position {
     font-style: normal;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 20px;
     color: #333;
     margin: 10px 0;
@@ -165,7 +165,7 @@ h3, h2{
 .organization {
     font-style: normal;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 20px;
     color: #FB6D3A;
     margin-left: 10px;
@@ -173,7 +173,7 @@ h3, h2{
 .period {
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 15px;
     color: #333;
     margin: 5px 0;
@@ -181,7 +181,7 @@ h3, h2{
 .line {
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 15px;
     color: #333;
 }
@@ -193,8 +193,8 @@ h3, h2{
 .worklist-item {
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 18px;
     color: #333;
 }
 /* education styles */
@@ -206,7 +206,7 @@ h3, h2{
 
 .accomplishments {
     margin: 0;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .education {
@@ -223,7 +223,7 @@ h3, h2{
 .university, .goit {
     font-style: normal;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 20px;
     color: #FB6D3A;
     margin: 12px 0 0;
@@ -231,7 +231,7 @@ h3, h2{
 .department {
     font-style: normal;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 17px;
     color: #333;
     margin: 5px 0;
@@ -242,7 +242,7 @@ h3, h2{
     background-color: #1E2939;
     padding-top: 40px;
     width: 300px;
-    font-size: 16px;
+    font-size: 14px;
     color: #333;
 }
 .photo {
@@ -279,8 +279,8 @@ h3, h2{
     color: #FFFFFF;
     font-style: normal;
     font-weight: bold;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 14px;
+    line-height: 18px;
     margin-right: 10px;
     }
 
@@ -313,8 +313,8 @@ h3, h2{
     color: #333;
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;    
+    font-size: 14px;
+    line-height: 18px;    
     }
     .tech-skills-list {
     color: #FFFFFF;
@@ -328,8 +328,8 @@ h3, h2{
     color: #FFFFFF;
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;     
+    font-size: 14px;
+    line-height: 18px;     
     }
     .soft-skills {
         margin-left: 50px;
@@ -350,8 +350,8 @@ h3, h2{
     color: #FFFFFF;
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
-    line-height: 24px;     
+    font-size: 14px;
+    line-height: 18px;     
     }
     .language-skills-title {
   margin: 20px 0 10px;
@@ -395,7 +395,7 @@ h3, h2{
 
     .cover__mail{
         display: flex;
-        gap: 16px;
+        gap: 14px;
         justify-content: flex-start;
         align-items: center;
 
