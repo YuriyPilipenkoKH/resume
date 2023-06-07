@@ -27,14 +27,15 @@ h3, h2{
     display: flex;
    
     flex-direction: row-reverse;
-    width: 1200px;
+    justify-content: center;
+    /* width: 1200px; */
     margin: 0 auto;
 }
 .main-content {
     background-color: #FFFFFF ;
-    width: 700px;
-    box-shadow: 6px 6px 20px  rgba(0, 0, 0, 0.1);
-    padding: 25px 80px;
+    width: 600px;
+ 
+    padding: 25px 50px;
 }
 .about {
     margin-bottom: 40px;
@@ -59,18 +60,21 @@ h3, h2{
     font-weight: bold;
     font-size: 45px;
     line-height: 55px;
-    color: #000000;
+    color: #333;
     margin-bottom: 25px;
 }
 .description__wrapper {
     /* max-width: 600px; */
+    width: 100%;
+    color: #333;
+
 }
 .description {
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 24px;
-    color: #595959;
+    color: #333;
    margin: 0;
 
 }
@@ -89,7 +93,7 @@ h3, h2{
     font-weight: normal;
     font-size: 16px;
     line-height: 24px;
-    color: #595959;
+    color: #333;
 
     /* -webkit-box-decoration-break: clone; */
 }
@@ -109,7 +113,7 @@ h3, h2{
     font-weight: bold;
     font-size: 26px;
     line-height: 27px;
-    color: #000000;
+    color: #333;
     margin-bottom: 10px;
 }
 .projects-list {
@@ -117,7 +121,7 @@ h3, h2{
     
 }
 .projects-link,  b{
-    color: #000000;
+    color: #333;
     
 }
 
@@ -126,7 +130,7 @@ h3, h2{
     font-weight: bold;
     font-size: 16px;
     line-height: 24px;
-    color: #000000;
+    color: #333;
 }
 .project,
 .project-link {
@@ -134,7 +138,7 @@ h3, h2{
     font-weight: normal;
     font-size: 16px;
     line-height: 24px;
-    color: #595959;
+    color: #333;
 }
 .project-link {
     margin-left: 10px;
@@ -144,7 +148,7 @@ h3, h2{
     font-weight: bold;
     font-size: 16px;
     line-height: 24px;
-    color: #000000;
+    color: #333;
 }
 /* work styles */
 .work-position {
@@ -152,7 +156,7 @@ h3, h2{
     font-weight: bold;
     font-size: 16px;
     line-height: 20px;
-    color: #000000;
+    color: #333;
     margin-bottom: 10px;
 }
 .organization {
@@ -168,7 +172,7 @@ h3, h2{
     font-weight: normal;
     font-size: 16px;
     line-height: 15px;
-    color: #A8A8A8;
+    color: #333;
     margin-bottom: 10px;
 }
 .line {
@@ -176,7 +180,7 @@ h3, h2{
     font-weight: normal;
     font-size: 16px;
     line-height: 15px;
-    color: #000000;
+    color: #333;
 }
 .work-list {
     padding: 0;
@@ -188,7 +192,7 @@ h3, h2{
     font-weight: normal;
     font-size: 16px;
     line-height: 24px;
-    color: #595959;
+    color: #333;
 }
 /* education styles */
 .link-goit {
@@ -207,7 +211,7 @@ h3, h2{
     font-weight: bold;
     font-size: 26px;
     line-height: 27px;
-    color: #000000;
+    color: #333;
     margin-top: 43px;
     margin-bottom: 10px;
 }
@@ -224,7 +228,7 @@ h3, h2{
     font-weight: bold;
     font-size: 16px;
     line-height: 17px;
-    color: #000000;
+    color: #333;
     margin-bottom: 10px;
 }
 
@@ -234,7 +238,7 @@ h3, h2{
     padding-top: 40px;
     width: 400px;
     font-size: 16px;
-    color: #595959;
+    color: #333;
 }
 .photo {
     display: block;
@@ -299,7 +303,7 @@ h3, h2{
 
     .contact-link {
         text-decoration: none;
-    color: #A8A8A8;
+    color: #333;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
