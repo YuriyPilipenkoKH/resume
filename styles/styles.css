@@ -243,7 +243,7 @@ h3, h2{
 .photo {
     display: block;
     width: 250px;
-    margin:0 auto 100px;
+    margin:0 auto 50px;
   border-radius: 50%;
 }
 .contacts {
@@ -261,12 +261,14 @@ h3, h2{
 }
 .contacts__title {
     margin-left: -20px;
+    margin-bottom: 10px;
 }
 .tech-skills {
      margin-left: 80px;
 }
 .tech-skills__title {
     margin-left: -30px;
+    margin-bottom: 10px;
 }
 .contact-type {
     color: #FFFFFF;
@@ -327,6 +329,10 @@ h3, h2{
     .soft-skills {
         margin-left: 50px;
    }
+   .soft-skills-title {
+    margin-bottom: 10px;
+    margin-top: 50px;
+   }
    .soft-skills-list {
     color: #FFFFFF;
     padding: 0;
@@ -341,6 +347,9 @@ h3, h2{
     font-weight: normal;
     font-size: 16px;
     line-height: 24px;     
+    }
+    .language-skills-title {
+        margin-bottom: 10px;
     }
 /* ================================ */
     .cover-letter {
