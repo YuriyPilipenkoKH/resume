@@ -122,14 +122,16 @@ h3, h2{
     color: #333;
     margin-bottom: 10px;
 }
+
 .projects-list {
     padding: 0;
     
 }
-.projects-link,  b{
+.projects-link,  b, .tech-name{
     color: #333;
-    
+    font-size: 14px;
 }
+
 
 .project-item {
     font-style: normal;
@@ -244,7 +246,7 @@ h3, h2{
 .sidebar {
     background-color: #1E2939;
     padding-top: 40px;
-    width: 300px;
+    width: 340px;
     font-size: 14px;
     color: #333;
 }
@@ -252,7 +254,7 @@ h3, h2{
     display: block;
     width: 150px;
     margin:0 auto 50px;
-  border-radius: 50%;
+    border-radius: 50%;
 }
 .contacts {
     margin-left: 60px;
