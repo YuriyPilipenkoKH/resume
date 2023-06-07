@@ -4,6 +4,9 @@ body {
     box-sizing: border-box;
     margin: 0;
 }
+ul {
+    margin: 4px 0;;
+}
 
 /* p, b, li, a,span, h4, h2,h5{
     font-size: 1.05em !important;
