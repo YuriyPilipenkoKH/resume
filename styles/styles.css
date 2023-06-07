@@ -176,7 +176,7 @@ h3, h2{
     font-size: 16px;
     line-height: 15px;
     color: #333;
-    margin-bottom: 10px;
+    margin: 5px 0;
 }
 .line {
     font-style: normal;
@@ -205,7 +205,7 @@ h3, h2{
 }
 
 .accomplishments {
-    margin: 10px 0;
+    margin: 0;
     font-size: 16px;
 }
 
@@ -217,13 +217,16 @@ h3, h2{
     color: #333;
     margin: 10px 0;
 }
+.education-position {
+    margin:  0;
+}
 .university, .goit {
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
     line-height: 20px;
     color: #FB6D3A;
-    margin-bottom: 10px;
+    margin: 12px 0 0;
 }
 .department {
     font-style: normal;
@@ -231,7 +234,7 @@ h3, h2{
     font-size: 16px;
     line-height: 17px;
     color: #333;
-    margin-bottom: 10px;
+    margin: 5px 0;
 }
 
 /* sidebar styles */
@@ -351,8 +354,7 @@ h3, h2{
     line-height: 24px;     
     }
     .language-skills-title {
-        margin-bottom: 30px;
-        margin-top: 70px;
+  margin: 20px 0 10px;
     }
     .xp-title {
      margin: 10px 0;
