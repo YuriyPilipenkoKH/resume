@@ -349,7 +349,10 @@ h3, h2{
     line-height: 24px;     
     }
     .language-skills-title {
-        margin-bottom: 10px;
+        margin-bottom: 30px;
+    }
+    .xp-title {
+        margin-top: 30px;
     }
 /* ================================ */
     .cover-letter {
